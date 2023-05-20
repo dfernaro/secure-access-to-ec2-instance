@@ -1,4 +1,4 @@
-# How to configure your static website using AWS
+# How to manage your instances without internet access or SSH Keys
 
 This is a demo project which accompanies the article at https://medium.com/@dfernaro/breaking-boundaries-managing-instances-without-internet-access-or-ssh-keys-3d9ac3d3ab7b. Please, make sure that you update the file `bin/secure-access-to-ec2-instance.ts` which contains the AWS account and region.
 
